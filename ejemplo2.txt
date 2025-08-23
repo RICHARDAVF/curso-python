@@ -1,0 +1,2 @@
+Usando contexto de with
+Es la mejor practica en Python.

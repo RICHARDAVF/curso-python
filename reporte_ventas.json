@@ -1,0 +1,17 @@
+{
+    "tienda": "TenoStore",
+    "venta_semana": [
+        {
+            "dia": "Lunes",
+            "total": 1200
+        },
+        {
+            "dia": "Martes",
+            "total": 1400
+        },
+        {
+            "dia": "Mircoles",
+            "total": 2000
+        }
+    ]
+}
